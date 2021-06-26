@@ -28,9 +28,9 @@
         <p>Após todos os passos anteriores, digite no seu CMD <strong>"node index.js"</strong> e inicie suas atividades com a API.</p>
         <h3>Contato</h3>
         <p>Para qualquer dúvida em relação ao projeto ou outros assuntos, entre em contato nas redes sociais a seguir:</p>
-        <ol>
+        <ul>
             <li><a href="https://www.instagram.com/eduu_augusto/">Instagran</a></li>
             <li><a href="https://www.instagram.com/eduu_augusto/">Linkedin</a></li>
             <li>Email: duduaugustooliveira@gmail.com</li>
-        </ol>
+        </ul>
     </div>
