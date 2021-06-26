@@ -14,9 +14,9 @@
         </ol>
         <h3>Postman</h3>
         <p>Este projeto foi testado e executado utiliando a ferramenta Postman, recomendo que utilize e teste todas as rotas e funcionalitades, segue o link para download no desktop:</p>
-        <ol>
+        <ul>
             <li><a href="https://www.postman.com/downloads/">Postman</a></li>
-        </ol>
+        </ul>
     </div>
     <div class="Body">
         <h3>Observações para a inicialização</h3>
