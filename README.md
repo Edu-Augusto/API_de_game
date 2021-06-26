@@ -22,8 +22,7 @@
         <h3>Observações para a inicialização</h3>
         <p>Para iniciar o projeto, modifique o script da pasta .database/database.js e coloque seu usuário e senha do myslq para que a conexão ao banco aconteça, a seguir o local:</p>
         <pre>
-            <code>const connection=new Sequelize('api', '>>Usuário aqui<<', '>>Senha aqui<<',{
-                host:'localhost',</code>
+            <code>const connection=new Sequelize('api', '>>Usuário aqui<<', '>>Senha aqui<<',{</code>
         </pre>
         <p>Após todos os passos anteriores, digite no seu CMD <strong>"node index.js"</strong> e inicie suas atividades com a API.</p>
         <h3>Contato</h3>
