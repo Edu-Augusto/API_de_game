@@ -11,6 +11,7 @@
             <li>Body-parser => npm install body-parser --save</li>
             <li>Mysql2 => npm install mysql2 --save</li>
             <li>Sequelize => npm install sequelize --save</li>
+            <li>Cors => npm install cors --save</li> 
         </ol>
         <h3>Postman</h3>
         <p>Este projeto foi testado e executado utiliando a ferramenta Postman, recomendo que utilize e teste todas as rotas e funcionalitades, segue o link para download no desktop:</p>
